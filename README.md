@@ -1,2 +1,1 @@
-# selenuim-stepik-course
-Repository to share stepik selenuim course tasks 
+Repository to share stepik selenium course: https://stepik.org/course/575/syllabus
